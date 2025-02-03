@@ -16,7 +16,7 @@ Before working with vlayer, ensure the following tools are installed:
 To make it easy here are the commands
 Git for Linux Users 
 ```
-`sudo apt-get install git
+sudo apt-get install git
 ```
 for Mac/Os
 Install Homebrew first

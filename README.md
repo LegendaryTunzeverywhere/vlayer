@@ -52,4 +52,12 @@ vlayer --version
 This should output the recent vlayer version, confirming you can now use the command.
 
 # PART 2
+Vlayer is capable of 2 functions and that is to Proof and Verify. These 2 functions are subdivided into:
 
+* Time Travel: Execute a smart contract on historical data.
+* Teleport: Execute a smart contract across different blockchain networks.
+* Web proof: Access verified web content, including APIs and websites.
+* Email proof: Access verified email content.
+
+## Testing
+To test this functions, you will need to create a new project using the below commands:

@@ -13,7 +13,7 @@ Before working with vlayer, ensure the following tools are installed:
 * [Foundary](https://book.getfoundry.sh/getting-started/installation) and,
 * [Bun](https://bun.sh/).
 
-To make it easy here are the commands
+To make it easy, here are the commands
 Git for Linux Users 
 ```
 sudo apt-get install git

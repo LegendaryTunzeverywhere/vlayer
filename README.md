@@ -61,3 +61,13 @@ Vlayer is capable of 2 functions and that is to Proof and Verify. These 2 functi
 
 ## Testing
 To test this functions, you will need to create a new project using the below commands:
+
+```
+mkdir vlayer && cd vlayer
+```
+
+Run this command to initialize a new vlayer project:
+```
+vlayer init project-name
+```
+

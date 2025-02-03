@@ -37,3 +37,19 @@ Install Bun
 ```
 curl -fsSL https://bun.sh/install | bash
 ```
+
+# Get Vlayer
+To install vlayerup, run the following command in your terminal, then follow the onscreen instructions.
+```
+curl -SL https://install.vlayer.xyz | bash
+```
+This will install vlayerup and make it available in your CLI.
+
+To confirm installation
+```
+vlayer --version
+```
+This should output the recent vlayer version, confirming you can now use the command.
+
+# PART 2
+
